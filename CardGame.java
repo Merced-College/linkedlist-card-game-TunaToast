@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class CardGame {
 	
-	private static LinkList cardList = new LinkList();  // make list
+	private static LinkedList cardList = new LinkedList();  // make list
 
 	public static void main(String[] args) {
 
