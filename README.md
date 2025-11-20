@@ -5,7 +5,7 @@
 ## 11-18-2025
 ## Lab: Linked List Card Game
 
-## What did we add?  What are the rules?
+## What did we add?  What are the rules?  How to play?
 We added a simple game of War. The game shuffles the deck before drawing, with the player winning by obtaining a higher valued card than the computer.  All that is needed is to execute the code and follow the prompts in the terminal.
 
 ## What part uses the linked list
