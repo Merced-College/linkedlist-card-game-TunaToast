@@ -5,8 +5,8 @@
 ## 11-18-2025
 ## Lab: Linked List Card Game
 
-## What did we add?
-We added a simple game of War, winning by obtaining a higher valued card than the AI.  All that is needed is to execute the code and follow the prompts in the terminal.
+## What did we add?  What are the rules?
+We added a simple game of War. The game shuffles the deck before drawing, with the player winning by obtaining a higher valued card than the computer.  All that is needed is to execute the code and follow the prompts in the terminal.
 
 ## What part uses the linked list
 The parts using a linked list include the deck after shuffling and the player hands, added in case a more complex game was wanted
